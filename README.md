@@ -1,2 +1,13 @@
 ## Who am i?
-<img src="https://i.imgur.com/v87l9y3.gif" width="400">
+![AbleRaxskall's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbleRaxskall&show_icons=true&theme=radical)
+
+
+Heya, I'm AbleRaxskall. A university student majoring in statistics with big ambitions to become a data scientist and/or web developer.
+
+## Skills
+- C++ Fundamentals
+- Intro to Statistics
+
+## How to reach me 
+- Email : masterdhiko@gmail.com
+- Discord : AbleRaxskall
