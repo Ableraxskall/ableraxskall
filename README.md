@@ -2,7 +2,13 @@
 ![AbleRaxskall's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbleRaxskall&show_icons=true&theme=radical)
 
 
+
+
 Heya, I'm Rascal. A university student majoring in statistics with big ambitions to become a data scientist and/or web developer. 
+
+## Portfolio
+🔗 [View my portfolio](https://portfolio-seven-eta-af0c7dblds.vercel.app/)
+
 
 ## Skills
 - C++ Fundamentals
